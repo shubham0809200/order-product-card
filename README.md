@@ -2,7 +2,7 @@
 
 
 
-# Order Product Cardmy orders 
+# Order Product Card
 this is an html, css formed card for e-commerce website to show in my orders section and more
 
 
